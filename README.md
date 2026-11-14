@@ -29,9 +29,9 @@ In Somaliland, finding a reliable tutor mostly happens through word of mouth. Th
 ## Screenshots
 
 <p>
-  <img src="screenshots/landing.png" width="250" alt="Landing page">
-  <img src="screenshots/student-profile.png" width="250" alt="Parent and student profile">
-  <img src="screenshots/teacher-profile.png" width="250" alt="Teacher profile">
+  <img src="landing.png" width="250" alt="Landing page">
+  <img src="student-profile.png" width="250" alt="Parent and student profile">
+  <img src="teacher-profile.png" width="250" alt="Teacher profile">
 </p>
 
 ## Run it locally
