@@ -1,17 +1,47 @@
-# macallin_app
+# Macallin
 
-A new Flutter project.
+A tutoring marketplace for Somaliland. Macallin connects students and parents with verified teachers, so finding good academic help doesn't depend on who you know.
 
-## Getting Started
+## The problem
 
-This project is a starting point for a Flutter application.
+In Somaliland, finding a reliable tutor mostly happens through word of mouth. There is no easy way to compare teachers, check who is verified, or book lessons in one place.
 
-A few resources to get you started if this is your first Flutter project:
+## How it works
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+1. A parent or student browses teachers by subject.
+2. They send a booking request to a teacher.
+3. The teacher accepts or declines.
+4. Once a request is accepted, the two can chat directly.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- Sign up as a **Teacher** or a **Parent/Student**
+- Admin accounts are invite-only
+- Teacher profiles with subjects such as Quran studies, mathematics, English and computer science
+- Booking requests with accept/decline
+- Chat that unlocks only after a booking is accepted
+
+## Built with
+
+- Flutter and Dart
+- Firebase (authentication and database)
+
+## Screenshots
+
+*Screenshots coming soon.*
+
+## Run it locally
+
+```bash
+git clone https://github.com/mohamedaadam07-commits/macallin_app.git
+cd macallin_app
+flutter pub get
+flutter run
+```
+
+You will need your own Firebase project and configuration file to run the app.
+
+## Author
+
+Mohamed Aden, Hargeisa, Somaliland
+mohamedaadam07@gmail.com
